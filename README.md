@@ -5,7 +5,7 @@
 
 ## Live Site 🚀
 
-[Preview the website here](https://israelmitolu.netlify.app).
+[Preview the website here]((https://portfolio-lyart-eta-82.vercel.app/)).
 
 ## Tools 🔨
 
